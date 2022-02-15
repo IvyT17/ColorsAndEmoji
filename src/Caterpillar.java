@@ -4,7 +4,7 @@ public class Caterpillar
 {
     // constants: these are "unicode" characters that
     // each represent a color!
-    private final String BLUE = "\u001B[36m";
+    private final String BLUE = "\u001B[34m";
     private final String RED = "\u001B[31m";
     private final String BROWN = "\u001B[33m";
     private final String WHITE = "\u001B[37m";
